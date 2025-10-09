@@ -1,5 +1,40 @@
 [
   {
+    "_id": "68e671c91751dd73557ff106",
+    "description": "Let's form add 3 phone numbers to the work area.",
+    "userId": "6818676c864ed17e34de36b9",
+    "timeInterval": {
+      "start": "2025-10-08T17:14:33+03:00",
+      "end": "2025-10-08T18:00:04+03:00",
+      "duration": 2731
+    },
+    "billable": true,
+    "projectId": "67d805840b460a4a15705605",
+    "taskId": null,
+    "approvalRequestId": null,
+    "type": "REGULAR",
+    "isLocked": false,
+    "currency": "USD",
+    "amount": 0,
+    "rate": 0,
+    "earnedAmount": 0,
+    "earnedRate": 0,
+    "costAmount": 0,
+    "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
+    "tags": [
+      {
+        "name": "xenovo",
+        "_id": "67d29b206f1153139735ac2a"
+      }
+    ],
+    "userName": "Oğuzhan",
+    "userEmail": "em1.14@odsol-mail.com"
+  },
+  {
     "_id": "68e666f9d1605947f26163bf",
     "description": "XENOVO drag-enabled letters: When the page opens, you can move the letters. A message will appear stating this.",
     "userId": "6818676c864ed17e34de36b9",
@@ -21,18 +56,78 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
+    "userName": "Oğuzhan",
+    "userEmail": "em1.14@odsol-mail.com"
+  },
+  {
+    "_id": "68e65d11d1605947f25ee367",
+    "description": "",
+    "userId": "67d7ed246f115313978020b7",
+    "timeInterval": {
+      "start": "2025-10-08T15:46:09+03:00",
+      "end": "2025-10-08T18:00:00+03:00",
+      "duration": 8031
+    },
+    "billable": false,
+    "projectId": "67d805840b460a4a15705605",
+    "taskId": null,
+    "tagIds": null,
+    "approvalRequestId": null,
+    "type": "REGULAR",
+    "isLocked": false,
+    "currency": "USD",
+    "amount": 0,
+    "rate": 0,
+    "earnedAmount": 0,
+    "earnedRate": 0,
+    "costAmount": 0,
+    "costRate": 0,
     "projectName": "Xenovo",
     "projectColor": "#FF5722",
     "clientName": "Xenovo",
     "clientId": "67cfd763495e3e53a42cecec",
-    "userName": "Oğuzhan",
-    "userEmail": "em1.14@odsol-mail.com"
+    "userName": "Atalay ",
+    "userEmail": "em1.28@odsol-mail.com"
+  },
+  {
+    "_id": "68e65a462fa9827f950621cb",
+    "description": "Xenovo Website Version-2 Services Section Design-Draft",
+    "userId": "67d802b16f1153139783079b",
+    "timeInterval": {
+      "start": "2025-10-08T15:34:14+03:00",
+      "end": "2025-10-08T17:56:42+03:00",
+      "duration": 8548
+    },
+    "billable": true,
+    "projectId": "67d805840b460a4a15705605",
+    "taskId": null,
+    "tagIds": null,
+    "approvalRequestId": null,
+    "type": "REGULAR",
+    "isLocked": false,
+    "currency": "USD",
+    "amount": 0,
+    "rate": 0,
+    "earnedAmount": 0,
+    "earnedRate": 0,
+    "costAmount": 0,
+    "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
+    "userName": "Enes",
+    "userEmail": "em1.12@odsol-mail.com"
   },
   {
     "_id": "68e65a27e326413870b74842",
@@ -86,18 +181,78 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
+    "userName": "Oğuzhan",
+    "userEmail": "em1.14@odsol-mail.com"
+  },
+  {
+    "_id": "68e664f6692799073a0bc19c",
+    "description": "AI computer researching",
+    "userId": "67cfdf31c89245437910a01c",
+    "timeInterval": {
+      "start": "2025-10-08T15:23:00+03:00",
+      "end": "2025-10-08T18:00:10+03:00",
+      "duration": 9430
+    },
+    "billable": true,
+    "projectId": "67d805840b460a4a15705605",
+    "taskId": null,
+    "tagIds": null,
+    "approvalRequestId": null,
+    "type": "REGULAR",
+    "isLocked": false,
+    "currency": "USD",
+    "amount": 0,
+    "rate": 0,
+    "earnedAmount": 0,
+    "earnedRate": 0,
+    "costAmount": 0,
+    "costRate": 0,
     "projectName": "Xenovo",
     "projectColor": "#FF5722",
     "clientName": "Xenovo",
     "clientId": "67cfd763495e3e53a42cecec",
-    "userName": "Oğuzhan",
-    "userEmail": "em1.14@odsol-mail.com"
+    "userName": "Emir",
+    "userEmail": "em1.24@odsol-mail.com"
+  },
+  {
+    "_id": "68e75403692799073a2c3c69",
+    "description": "lunch",
+    "userId": "67d802b16f1153139783079b",
+    "timeInterval": {
+      "start": "2025-10-08T15:00:00+03:00",
+      "end": "2025-10-08T15:30:00+03:00",
+      "duration": 1800
+    },
+    "billable": true,
+    "projectId": "67d3ded56f11531397521708",
+    "taskId": null,
+    "tagIds": null,
+    "approvalRequestId": null,
+    "type": "REGULAR",
+    "isLocked": false,
+    "currency": "USD",
+    "amount": 0,
+    "rate": 0,
+    "earnedAmount": 0,
+    "earnedRate": 0,
+    "costAmount": 0,
+    "costRate": 0,
+    "projectName": "Breaks",
+    "projectColor": "#039BE5",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
+    "userName": "Enes",
+    "userEmail": "em1.12@odsol-mail.com"
   },
   {
     "_id": "68e656df2fa9827f95055a45",
@@ -181,16 +336,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Breaks",
+    "projectColor": "#039BE5",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "breaks",
         "_id": "67e54004841175401716705c"
       }
     ],
-    "projectName": "Breaks",
-    "projectColor": "#039BE5",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -225,6 +380,36 @@
     "userEmail": "em1.24@odsol-mail.com"
   },
   {
+    "_id": "68e64c121751dd7355770467",
+    "description": "n8n Workflows",
+    "userId": "67cfd531cf06332f2bcbb118",
+    "timeInterval": {
+      "start": "2025-10-08T14:33:38+03:00",
+      "end": "2025-10-08T18:00:16+03:00",
+      "duration": 12398
+    },
+    "billable": true,
+    "projectId": "67cfde9acf06332f2bcc7037",
+    "taskId": null,
+    "tagIds": null,
+    "approvalRequestId": null,
+    "type": "REGULAR",
+    "isLocked": false,
+    "currency": "USD",
+    "amount": 0,
+    "rate": 0,
+    "earnedAmount": 0,
+    "earnedRate": 0,
+    "costAmount": 0,
+    "costRate": 0,
+    "projectName": "General",
+    "projectColor": "#000000",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
+    "userName": "Emin",
+    "userEmail": "em1.16@odsol-drive.com"
+  },
+  {
     "_id": "68e64dac1751dd7355774ed1",
     "description": "Login api integration",
     "userId": "6818676c864ed17e34de36b9",
@@ -246,16 +431,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
-    "projectName": "Xenovo",
-    "projectColor": "#FF5722",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -401,16 +586,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "General",
+    "projectColor": "#000000",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "general",
         "_id": "67d29b350b460a4a15232258"
       }
     ],
-    "projectName": "General",
-    "projectColor": "#000000",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -586,16 +771,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
-    "projectName": "Xenovo",
-    "projectColor": "#FF5722",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -771,16 +956,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Breaks",
+    "projectColor": "#039BE5",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "breaks",
         "_id": "67e54004841175401716705c"
       }
     ],
-    "projectName": "Breaks",
-    "projectColor": "#039BE5",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -836,16 +1021,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
-    "projectName": "Xenovo",
-    "projectColor": "#FF5722",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -991,16 +1176,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "General",
+    "projectColor": "#000000",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "general",
         "_id": "67d29b350b460a4a15232258"
       }
     ],
-    "projectName": "General",
-    "projectColor": "#000000",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -1116,16 +1301,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
-    "projectName": "Xenovo",
-    "projectColor": "#FF5722",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -1181,16 +1366,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Breaks",
+    "projectColor": "#039BE5",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "breaks",
         "_id": "67e54004841175401716705c"
       }
     ],
-    "projectName": "Breaks",
-    "projectColor": "#039BE5",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -1276,16 +1461,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Xenovo",
+    "projectColor": "#FF5722",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "xenovo",
         "_id": "67d29b206f1153139735ac2a"
       }
     ],
-    "projectName": "Xenovo",
-    "projectColor": "#FF5722",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -1311,16 +1496,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Richard",
+    "projectColor": "#607D8B",
+    "clientName": "Richard",
+    "clientId": "68a414aa14ffea27c2038d4e",
     "tags": [
       {
         "name": "richard",
         "_id": "68b69ad6fef1de0b2790f521"
       }
     ],
-    "projectName": "Richard",
-    "projectColor": "#607D8B",
-    "clientName": "Richard",
-    "clientId": "68a414aa14ffea27c2038d4e",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -1346,16 +1531,16 @@
     "earnedRate": 0,
     "costAmount": 0,
     "costRate": 0,
+    "projectName": "Breaks",
+    "projectColor": "#039BE5",
+    "clientName": "Xenovo",
+    "clientId": "67cfd763495e3e53a42cecec",
     "tags": [
       {
         "name": "breaks",
         "_id": "67e54004841175401716705c"
       }
     ],
-    "projectName": "Breaks",
-    "projectColor": "#039BE5",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Oğuzhan",
     "userEmail": "em1.14@odsol-mail.com"
   },
@@ -1388,200 +1573,5 @@
     "clientId": "67cfd763495e3e53a42cecec",
     "userName": "Emir",
     "userEmail": "em1.24@odsol-mail.com"
-  },
-  {
-    "_id": "68e4c11cb80221120357020e",
-    "description": "Richard n8n",
-    "userId": "6818676c864ed17e34de36b9",
-    "timeInterval": {
-      "start": "2025-10-07T10:28:28+03:00",
-      "end": "2025-10-07T10:57:36+03:00",
-      "duration": 1748
-    },
-    "billable": true,
-    "projectId": "68a414ade468661d57e2e682",
-    "taskId": null,
-    "approvalRequestId": null,
-    "type": "REGULAR",
-    "isLocked": false,
-    "currency": "USD",
-    "amount": 0,
-    "rate": 0,
-    "earnedAmount": 0,
-    "earnedRate": 0,
-    "costAmount": 0,
-    "costRate": 0,
-    "tags": [
-      {
-        "name": "richard",
-        "_id": "68b69ad6fef1de0b2790f521"
-      }
-    ],
-    "projectName": "Richard",
-    "projectColor": "#607D8B",
-    "clientName": "Richard",
-    "clientId": "68a414aa14ffea27c2038d4e",
-    "userName": "Oğuzhan",
-    "userEmail": "em1.14@odsol-mail.com"
-  },
-  {
-    "_id": "68e4b862b802211203556d3e",
-    "description": "Richard AI",
-    "userId": "67cfd531cf06332f2bcbb118",
-    "timeInterval": {
-      "start": "2025-10-07T09:51:14+03:00",
-      "end": "2025-10-07T11:24:46+03:00",
-      "duration": 5612
-    },
-    "billable": true,
-    "projectId": "67cfde9acf06332f2bcc7037",
-    "taskId": null,
-    "tagIds": null,
-    "approvalRequestId": null,
-    "type": "REGULAR",
-    "isLocked": false,
-    "currency": "USD",
-    "amount": 0,
-    "rate": 0,
-    "earnedAmount": 0,
-    "earnedRate": 0,
-    "costAmount": 0,
-    "costRate": 0,
-    "projectName": "General",
-    "projectColor": "#000000",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
-    "userName": "Emin",
-    "userEmail": "em1.16@odsol-drive.com"
-  },
-  {
-    "_id": "68e4c119cb6c3d1db5982413",
-    "description": "University Course Selection Office - Kartal",
-    "userId": "6818676c864ed17e34de36b9",
-    "timeInterval": {
-      "start": "2025-10-07T09:00:00+03:00",
-      "end": "2025-10-07T10:28:28+03:00",
-      "duration": 5308
-    },
-    "billable": true,
-    "projectId": "67cfde9acf06332f2bcc7037",
-    "taskId": null,
-    "approvalRequestId": null,
-    "type": "REGULAR",
-    "isLocked": false,
-    "currency": "USD",
-    "amount": 0,
-    "rate": 0,
-    "earnedAmount": 0,
-    "earnedRate": 0,
-    "costAmount": 0,
-    "costRate": 0,
-    "tags": [
-      {
-        "name": "general",
-        "_id": "67d29b350b460a4a15232258"
-      }
-    ],
-    "projectName": "General",
-    "projectColor": "#000000",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
-    "userName": "Oğuzhan",
-    "userEmail": "em1.14@odsol-mail.com"
-  },
-  {
-    "_id": "68e4b859cb6c3d1db5965fc9",
-    "description": "Log checking",
-    "userId": "67cfd531cf06332f2bcbb118",
-    "timeInterval": {
-      "start": "2025-10-07T09:00:00+03:00",
-      "end": "2025-10-07T09:51:06+03:00",
-      "duration": 3066
-    },
-    "billable": true,
-    "projectId": "67cfde9acf06332f2bcc7037",
-    "taskId": null,
-    "tagIds": [],
-    "approvalRequestId": null,
-    "type": "REGULAR",
-    "isLocked": false,
-    "currency": "USD",
-    "amount": 0,
-    "rate": 0,
-    "earnedAmount": 0,
-    "earnedRate": 0,
-    "costAmount": 0,
-    "costRate": 0,
-    "projectName": "General",
-    "projectColor": "#000000",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
-    "userName": "Emin",
-    "userEmail": "em1.16@odsol-drive.com"
-  },
-  {
-    "_id": "68e4acd0cb6c3d1db594a360",
-    "description": "Airbnb clone project",
-    "userId": "67cfdf31c89245437910a01c",
-    "timeInterval": {
-      "start": "2025-10-07T09:00:00+03:00",
-      "end": "2025-10-07T10:56:00+03:00",
-      "duration": 6960
-    },
-    "billable": true,
-    "projectId": "67cfde9acf06332f2bcc7037",
-    "taskId": null,
-    "tagIds": null,
-    "approvalRequestId": null,
-    "type": "REGULAR",
-    "isLocked": false,
-    "currency": "USD",
-    "amount": 0,
-    "rate": 0,
-    "earnedAmount": 0,
-    "earnedRate": 0,
-    "costAmount": 0,
-    "costRate": 0,
-    "projectName": "General",
-    "projectColor": "#000000",
-    "clientName": "Xenovo",
-    "clientId": "67cfd763495e3e53a42cecec",
-    "userName": "Emir",
-    "userEmail": "em1.24@odsol-mail.com"
-  },
-  {
-    "_id": "68e3b98c5f445835b9bc2503",
-    "description": "Richard n8n",
-    "userId": "6818676c864ed17e34de36b9",
-    "timeInterval": {
-      "start": "2025-10-06T15:43:56+03:00",
-      "end": "2025-10-06T18:00:02+03:00",
-      "duration": 8166
-    },
-    "billable": true,
-    "projectId": "68a414ade468661d57e2e682",
-    "taskId": null,
-    "approvalRequestId": null,
-    "type": "REGULAR",
-    "isLocked": false,
-    "currency": "USD",
-    "amount": 0,
-    "rate": 0,
-    "earnedAmount": 0,
-    "earnedRate": 0,
-    "costAmount": 0,
-    "costRate": 0,
-    "tags": [
-      {
-        "name": "richard",
-        "_id": "68b69ad6fef1de0b2790f521"
-      }
-    ],
-    "projectName": "Richard",
-    "projectColor": "#607D8B",
-    "clientName": "Richard",
-    "clientId": "68a414aa14ffea27c2038d4e",
-    "userName": "Oğuzhan",
-    "userEmail": "em1.14@odsol-mail.com"
   }
 ]
